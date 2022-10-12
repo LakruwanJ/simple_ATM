@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class ATMmachine {
     public static void main(String[] args) {
-        String cardNum = "a1234b";
-        String pinNum = "4321";
+        String cardNum = "369852";
+        String pinNum = "654";
         double balance = 1000;
         int pinRemains = 1;
 
